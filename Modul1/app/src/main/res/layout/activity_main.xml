@@ -35,5 +35,4 @@
         android:background="@color/colorPrimary"
         android:onClick="onCountUp"
         android:textColor="@android:color/white"/>
-
 </LinearLayout>
